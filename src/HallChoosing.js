@@ -11,7 +11,7 @@ export default function HallChoosing() {
         </div>
         <div className = "hall-choosing-card">
                 <h2>Hall</h2>
-                <Link to = "/hall-list2"><button>Book Now</button></Link>
+                <Link to = "/hall-list2"><button>Baack Now</button></Link>
         </div>
     </div>
   )
